@@ -1,0 +1,10 @@
+# Main Dependencies
+xrpl==4.2.0
+
+# Development Dependencies
+ts-node==10.9.2
+typescript==5.8.2
+
+# Note: This is a documentation file only.
+# For Node.js projects, dependencies are managed via package.json.
+# To install dependencies, run: npm install 
